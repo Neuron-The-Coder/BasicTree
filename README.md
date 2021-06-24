@@ -8,11 +8,11 @@ This neuraltree.py is a module that can be used to create a tree, either AVL or 
 
 You can import this module and create a new object either RedBlackTree() or AVLTree().
 
-Both of the trees can do some basic things like
-  -> Push (ID, AnyData)
-  -> Pop (ID)
-  -> Print () == Print the tree in sideways
-  -> Search (ID) == Search and return specific object with the same ID
-  -> [Pre | In | Post]Order()
+Both of the trees can do some basic things like <br>
+  -> Push (ID, AnyData) <br>
+  -> Pop (ID) <br>
+  -> Print () == Print the tree in sideways <br>
+  -> Search (ID) == Search and return specific object with the same ID <br>
+  -> [Pre | In | Post]Order() <br> <br>
   
 Bugs? Suggestions? Contact Me :)
